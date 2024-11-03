@@ -34,3 +34,7 @@ docker.io/library/almalinux                   latest      57f00a4dcc60  3 weeks 
 
 - выложить на github, расшарить с `byumov@gmail.com`
 - сообщить о готовности: [https://vk.com/byumov](https://vk.com/byumov)
+
+## Дедлайн
+
+8 ноября 2024
